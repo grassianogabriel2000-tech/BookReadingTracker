@@ -1,7 +1,5 @@
 # BookReadingTracker
 
-# Book Reading Tracker
-
 A simple console-based personal book reading tracker written in Python.
 
 Track the books you're reading, update your progress, mark books as finished with ratings, and view basic statistics — all stored locally in a JSON file.
