@@ -26,7 +26,7 @@ Track the books you're reading, update your progress, mark books as finished wit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/BookReadingTracker.git
+   git clone https://github.com/grassianogabriel2000-tech/BookReadingTracker.git
    cd BookReadingTracker
 
 python -m venv venv
